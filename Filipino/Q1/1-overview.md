@@ -77,3 +77,6 @@
 - Small whiteeboard and whiteboard eraser + marker
 - Art materials
   - Contains several set of coloring, sketching, measuring, etc. Materials vital for art activities
+
+
+## [Go back ←](../index.md)
