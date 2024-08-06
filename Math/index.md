@@ -1,6 +1,6 @@
 # Table of Content (Math)
 
-- [Quarter-1](./Q1/quarter-1.md)
-- [Quarter-2](./Q1/quarter-2.md)
-- [Quarter-3](./Q1/quarter-3.md)
-- [Quarter-4](./Q1/quarter-4.md)
+- [Quarter-1](./quarter-1.md)
+- [Quarter-2](./quarter-2.md)
+- [Quarter-3](./quarter-3.md)
+- [Quarter-4](./quarter-4.md)
