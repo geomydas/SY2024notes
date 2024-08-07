@@ -2,6 +2,7 @@
 
 - [AP](/AP/index.md)
 - [Arts](/Arts/index.md)
+- [Computer](/Computer/index.md)
 - [English](/English/index.md)
 - [EsP](/EsP/index.md)
 - [Filipino](/Filipino/index.md)
