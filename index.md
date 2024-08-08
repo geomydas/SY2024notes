@@ -1,5 +1,6 @@
 # Table of Content
 
+- [Assignments/Announcements](./Assignments/index.md)
 - [AP](/AP/index.md)
 - [Arts](/Arts/index.md)
 - [Computer](/Computer/index.md)
